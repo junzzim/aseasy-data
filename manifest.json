@@ -1,0 +1,20 @@
+{
+  "data_version": 3,
+  "min_app_version": 3,
+  "data_url": "https://YOUR_GITHUB_ID.github.io/aseasy-data/aseasy_data_v3.json",
+  "sha256": "7812e4a233cd3e03e4e4377f49ce7da473537024b33f53e595d1ea3b03575e42",
+  "size": 1015204,
+  "updated_at": "2026-10-24",
+  "counts": {
+    "categories": 13,
+    "products": 46,
+    "problems": 67,
+    "shops": 28,
+    "tips": 6,
+    "code_groups": 7,
+    "codes": 56,
+    "maintenance": 17,
+    "emergency_numbers": 17,
+    "tools": 25
+  }
+}
